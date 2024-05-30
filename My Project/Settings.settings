@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="vgServerOperador" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DBLIRELA</Value>
+    </Setting>
+    <Setting Name="vgServerReporteria" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DBLIRELA</Value>
+    </Setting>
+    <Setting Name="vgServerPlataforma" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DBLIRELA</Value>
+    </Setting>
+    <Setting Name="vgOrigenBGOl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LGBVI,LGBVE,NEOBO,VPNBG,EFECM,OTPCR,OTPNW,NEOVL,PEIBG</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
